@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Cenas\CenasTabuleiro\CenaAcademia\Prendas.js">
+    <Files>
+      <File FileName="Assets\Scripts\Main\painelPontuacao.js" Line="21" Column="77" />
+      <File FileName="Assets\Scripts\Main\painelDado.js" Line="42" Column="20" />
+      <File FileName="Assets\Cenas\statusJogadorScript.js" Line="25" Column="12" />
+      <File FileName="Assets\Cenas\scriptPausa.js" Line="17" Column="28" />
+      <File FileName="Assets\Cenas\CenasTabuleiro\CenaMostrarDentes\mostrar_dentes2.js" Line="6" Column="24" />
+      <File FileName="Assets\Cenas\CenasTabuleiro\CenaEscova\cenaEscovaScript.js" Line="4" Column="1" />
+      <File FileName="Assets\Scripts\CenasDoTabuleiro\cenaFioDental\cenaFioDental.js" Line="37" Column="113" />
+      <File FileName="Assets\Scripts\CenasDoTabuleiro\cenaImunidade\cenaImunidade.js" Line="3" Column="25" />
+      <File FileName="Assets\Cenas\CenasTabuleiro\CenaAcademia\Prendas.js" Line="4" Column="21" />
+      <File FileName="Assets\Cenas\CenasTabuleiro\CenaAcademia\ScriptPrenda.js" Line="4" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
